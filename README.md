@@ -1,7 +1,7 @@
 
 ---
 
-### the same repo from https://github.com/KevinSilvester/wezterm-config/stargazers
+### the same repo from https://github.com/KevinSilvester/wezterm-config
 > git-lfs cannot push to fork directly
 
 ---
