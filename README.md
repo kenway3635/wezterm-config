@@ -1,3 +1,11 @@
+
+---
+
+### the same repo from https://github.com/KevinSilvester/wezterm-config/stargazers
+> git-lfs cannot push to fork directly
+
+---
+
 <h2 align="center">My WezTerm Config</h2>
 
 <p align="center">
